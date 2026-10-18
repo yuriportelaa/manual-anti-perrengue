@@ -1,0 +1,11 @@
+LANDING PAGE - MANUAL ANTI-PERRENGUE
+
+A página já está ligada à planilha "Leads – Manual Anti-Perrengue".
+
+Para colocar no ar:
+1. Descompacte este arquivo numa pasta.
+2. Abra app.netlify.com/drop e arraste a pasta inteira para lá.
+3. Em 1 minuto você recebe um link público. Faça um cadastro de teste
+   e confira se a linha apareceu na planilha.
+
+Importante: suba todos os arquivos juntos (index.html, o PDF e a capa.jpg).
